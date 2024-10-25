@@ -1,13 +1,18 @@
 ## 👋 Hi there, I'm Soo 
-- 🔭 I’m currently participating in **SSAFY 12th**
-- 🌱 I’m currently learning 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux Badge" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge" style="vertical-align: middle;">
-<img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GithubAction Badge" style="vertical-align: middle;">
+<ul>
+  <li> 🔭 I’m currently participating in <strong>SSAFY 12th</strong></li>
+  <li>
+    🌱 I’m currently learning
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux Badge" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GithubAction Badge" style="vertical-align: middle;">
+  </li>
 
+
+</ul>
 ---
-<div align="center">
+<div>
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=kadam4)](https://solved.ac/kadam4/)
 </div>
