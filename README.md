@@ -11,34 +11,30 @@
 
 
 </ul>
----
-<div>
 
-[![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=kadam4)](https://solved.ac/kadam4/)
+---
+
+<div>
+<!--[![Solved.ac Profile](https://mazassumnida.wtf/api/generate_badge?boj=kadam4)](https://solved.ac/kadam4/)-->
 </div>
 
-<article align="center" style="display:flex;" class="contact">
+<!-- stat -->
 
-  <!-- stat -->
-  <section style="padding-right:10px;">
-
-  ![KSAhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSAhh&show_icons=true&theme=shadow_green&rank_icon=github)
-
-
-  </section>
-  <section >
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KSAhh&layout=compact&theme=shadow_green)
-
-
+<h3>🐇 My stat</h3>
+<article align="center" style="display:flex; justify-items:center;" class="contact">
+  <section>
+    <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KSAhh&layout=compact&theme=swift">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img alt="KSAhh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=KSAhh&show_icons=true&theme=swift&rank_icon=github">
   </section>
 </article>
 
 ---
 
 <!-- 아이콘 -->
+<h3>🛠 Tech Stack</h3>
+
 <details>
-  <summary><h3 style="display:inline-block;">🛠 Tech Stack</h3></summary>
+  <summary>Click</summary>
 
   <article align="center">
 
@@ -56,6 +52,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white" alt="Django Badge">
 
   #### Embedded
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&amp;logo=arduino&amp;logoColor=white" alt="arduino Badge">
 
