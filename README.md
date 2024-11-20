@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white" alt="HTML5 Badge">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=CSS3&amp;logoColor=white" alt="CSS3 Badge">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&amp;logo=Vue.js&amp;logoColor=white" alt="Vue.js Badge">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=Figma&amp;logoColor=white" alt="Figma Badge">
 
   #### Back-end
@@ -92,7 +93,7 @@
 
 1. icon
 - [icon](https://shields.io/badges)
-- [simple icon](https://simpleicons.org/?q=colab)
+- [simple icon](https://simpleicons.org/)
 - [simple icon docs](https://github.com/simple-icons/simple-icons?tab=readme-ov-file)
 
 2. stat
