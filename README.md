@@ -5,7 +5,6 @@
     🌱 I’m currently learning
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux Badge" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GithubAction Badge" style="vertical-align: middle;">
   </li>
 
@@ -51,6 +50,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=yellow" alt="Python Badge">
 
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&amp;logo=Django&amp;logoColor=white" alt="Django Badge">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Badge" style="vertical-align: middle;">
 
   #### Embedded
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C++ Badge">
