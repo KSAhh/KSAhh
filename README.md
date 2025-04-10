@@ -1,14 +1,6 @@
 ## 👋 Hi there, I'm Soo 
 <ul>
-  <li> 🔭 I’m currently participating in <strong>SSAFY 12th</strong></li>
-  <li>
-    🌱 I’m currently learning
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" alt="Linux Badge" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Badge" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Github Action-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GithubAction Badge" style="vertical-align: middle;">
-  </li>
-
-
+  <li> 🎓 I’ve completed the <strong>SSAFY 12th</strong></li>
 </ul>
 
 ---
@@ -56,6 +48,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++ Badge">
   <img src="https://img.shields.io/badge/arduino-00878F?style=flat-square&amp;logo=arduino&amp;logoColor=white" alt="arduino Badge">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C# Badge">
 
   #### Database  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=MySQL&amp;logoColor=white" alt="MySQL Badge">
@@ -66,6 +59,8 @@
   <img src="https://img.shields.io/badge/VisualStudio-A666FA?style=flat-square&amp;logo=VisualStudio&amp;logoColor=white" alt="VisualStudio Badge">
   <img src="https://img.shields.io/badge/Pycharm-1cb034?style=flat-square&amp;logo=Pycharm&amp;logoColor=yellow" alt="Pycharm Badge">
 
+  #### Operating System
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Badge">
 
   #### VCS and Platform & Collaboration Tools
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=Git&amp;logoColor=white" alt="Git Badge">
